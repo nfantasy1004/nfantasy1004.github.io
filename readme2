@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="zh-Hant">
+<meta charset="utf-8">
+<title>FinanceScript</title>
+<h1>FinanceScript</h1>
+<p>個人用的財務整理程式，只在自己的電腦上執行，讀取自己信箱中的對帳單並整理到自己的 Google 試算表。</p>
+<h2>隱私權政策</h2>
+<p>本程式只供開發者本人及家人使用。程式以唯讀方式讀取使用者 Gmail 中的帳單郵件，資料只儲存在使用者自己的電腦與 Google 雲端硬碟，不會傳送給任何第三方，也不會用於其他用途。</p>
+</html>
